@@ -1,5 +1,11 @@
 # 01 — Classes and Objects
 
+## The original challenge
+
+This exercise asked for a `Plant` class that could represent several plants with the same set of attributes: name, height, and age. Each plant needed a `show()` method that displayed its own values.
+
+The program created a rose, sunflower, and cactus, then displayed them as a small registry. The goal was to replace one-off variables with a reusable model while showing that every object keeps independent state.
+
 ## What this stage introduced
 
 Originally introduced in `py01/ex1`, `Plant` groups plant data with the `show()` behavior that uses it. A class is the reusable definition; each object is an independent instance made from that definition.

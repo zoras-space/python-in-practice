@@ -1,5 +1,11 @@
 # 04 — Encapsulation
 
+## The original challenge
+
+This exercise asked for the plant's name, height, and age to be treated as protected state. Height and age had to be read through getters and changed through setters rather than updated freely from outside the class.
+
+The setters also had to reject negative values. The demonstration created a plant, accepted valid height and age changes, rejected invalid negative changes, and finally showed that the last valid state had been preserved. These requirements explain why the implementation uses explicit getters and setters instead of a different interface.
+
 ## What this stage introduced
 
 Originally introduced in `py01/ex4`, encapsulation placed height and age behind a controlled interface.

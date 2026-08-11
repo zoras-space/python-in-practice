@@ -2,6 +2,8 @@
 
 Module 1 moves from small procedural programs to objects that keep related data and behavior together. The `Plant` model grows step by step, then becomes the base for several specialized and interacting types.
 
+The original 42 exercises and subject PDFs are not reproduced here. Each chapter summarizes the relevant challenge in my own words, so the code and learning progression can be understood without access to the subject.
+
 ```text
 Program structure
         ↓

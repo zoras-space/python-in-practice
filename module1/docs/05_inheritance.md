@@ -1,5 +1,11 @@
 # 05 — Inheritance
 
+## The original challenge
+
+This exercise expanded the garden with three specialized plant types. A `Flower` added color and blooming behavior, a `Tree` added trunk diameter and shade production, and a `Vegetable` added a harvest season and nutritional value that changed as it aged.
+
+The specialized classes were expected to inherit the common plant state and behavior, call `super()` to reuse parent initialization or methods, and override `show()` where extra details were needed. The demonstration exercised each type's distinct behavior while keeping the shared `Plant` foundation visible.
+
 ## What this stage introduced
 
 Originally introduced in `py01/ex5`, inheritance extended the common plant model into `Flower`, `Tree`, and `Vegetable`.

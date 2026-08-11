@@ -1,5 +1,13 @@
 # 06 — Advanced OOP
 
+## The original challenge
+
+The final exercise combined the earlier model with several new forms of class behavior. `Plant` needed a static method that checks whether an age is greater than one year and a class method that creates an anonymous plant. It also needed a nested statistics class that counted calls to `grow()`, `age()`, and `show()`.
+
+The garden then gained a `Seed` type derived from `Flower`, and tree statistics extended the common counters with calls to `produce_shade()`. A shared `display_statistics()` function had to work with different plant subtypes through the same interface. The expected demonstration checked ages, changed and displayed specialized plants, showed their counters, and created the anonymous plant.
+
+These requirements brought static methods, class methods, nested classes, deeper inheritance, method overriding, and polymorphism into one final program. Running `mypy --strict` later also revealed that the anonymous-plant class method needed an explicit return type, leading to the forward-reference note below.
+
 ## What this stage introduced
 
 Originally introduced in `py01/ex6`, the final exercise added class-associated methods, nested statistics, deeper inheritance, and a function that works across plant types.

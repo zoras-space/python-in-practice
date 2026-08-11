@@ -1,5 +1,11 @@
 # 02 — State and Methods
 
+## The original challenge
+
+The next exercise turned a plant from a fixed record into an object that changes over time. The `Plant` class needed `grow()` and `age()` methods in addition to `show()`.
+
+The demonstration followed one rose for seven days. Each day increased its height by `0.8` centimetres and its age by one day, then displayed the updated state. At the end, the program reported the total growth for the week. This made persistence visible: each method call worked from the state left by the previous call.
+
 ## What this stage introduced
 
 Originally introduced in `py01/ex2`, the plant stopped being a static record. The `grow()` and `age()` methods changed its height and age over time.
