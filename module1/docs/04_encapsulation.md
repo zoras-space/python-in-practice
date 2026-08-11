@@ -8,7 +8,7 @@ The setters also had to reject negative values. The demonstration created a plan
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex4`, encapsulation placed height and age behind a controlled interface.
+Originally introduced in `ex4`, encapsulation placed height and age behind a controlled interface.
 
 Earlier methods and outside code could update public attributes directly. Nothing prevented a negative height or age.
 

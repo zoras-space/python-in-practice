@@ -24,13 +24,13 @@ Advanced OOP
 
 | Stage | Documentation | Original exercise |
 |---|---|---|
-| 00 | [Program structure](docs/00_program_structure.md) | `py01/ex0` |
-| 01 | [Classes and objects](docs/01_classes_and_objects.md) | `py01/ex1` |
-| 02 | [State and methods](docs/02_state_and_methods.md) | `py01/ex2` |
-| 03 | [Constructors and object creation](docs/03_constructors.md) | `py01/ex1` and `py01/ex3` |
-| 04 | [Encapsulation](docs/04_encapsulation.md) | `py01/ex4` |
-| 05 | [Inheritance](docs/05_inheritance.md) | `py01/ex5` |
-| 06 | [Advanced OOP](docs/06_advanced_oop.md) | `py01/ex6` |
+| 00 | [Program structure](docs/00_program_structure.md) | `ex0` |
+| 01 | [Classes and objects](docs/01_classes_and_objects.md) | `ex1` |
+| 02 | [State and methods](docs/02_state_and_methods.md) | `ex2` |
+| 03 | [Constructors and object creation](docs/03_constructors.md) | `ex1` and `ex3` |
+| 04 | [Encapsulation](docs/04_encapsulation.md) | `ex4` |
+| 05 | [Inheritance](docs/05_inheritance.md) | `ex5` |
+| 06 | [Advanced OOP](docs/06_advanced_oop.md) | `ex6` |
 
 ## Code and examples
 

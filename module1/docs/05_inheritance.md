@@ -8,7 +8,7 @@ The specialized classes were expected to inherit the common plant state and beha
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex5`, inheritance extended the common plant model into `Flower`, `Tree`, and `Vegetable`.
+Originally introduced in `ex5`, inheritance extended the common plant model into `Flower`, `Tree`, and `Vegetable`.
 
 Without inheritance, each type would need to repeat the plant name, height, age, validation, growth, and display behavior. The new classes reuse that shared foundation and add only their specialized state and behavior.
 

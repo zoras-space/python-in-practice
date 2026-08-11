@@ -10,7 +10,7 @@ These requirements brought static methods, class methods, nested classes, deeper
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex6`, the final exercise added class-associated methods, nested statistics, deeper inheritance, and a function that works across plant types.
+Originally introduced in `ex6`, the final exercise added class-associated methods, nested statistics, deeper inheritance, and a function that works across plant types.
 
 Earlier objects could model different plants, but they did not track method usage or demonstrate behavior associated with a class rather than one instance.
 

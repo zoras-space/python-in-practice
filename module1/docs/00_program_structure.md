@@ -8,7 +8,7 @@ The important structural requirement was the `if __name__ == "__main__":` entry-
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex0`, this stage organized a small script around a `main()` function and the `if __name__ == "__main__":` guard.
+Originally introduced in `ex0`, this stage organized a small script around a `main()` function and the `if __name__ == "__main__":` guard.
 
 Before this step, statements could simply run from top to bottom as soon as Python loaded the file. That becomes inconvenient when a file should also be imported elsewhere.
 

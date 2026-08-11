@@ -8,7 +8,7 @@ Supplying name, height, and age during construction kept object creation consist
 
 ## What this stage introduced
 
-The original implementation introduced `__init__` in `py01/ex1`, earlier than the rough exercise summary suggests. By `py01/ex3`, the main new emphasis was using that constructor repeatedly to build a collection cleanly.
+The original implementation introduced `__init__` in `ex1`, earlier than the rough exercise summary suggests. By `ex3`, the main new emphasis was using that constructor repeatedly to build a collection cleanly.
 
 Without a constructor, code would need to create an object and assign each attribute separately. That makes incomplete objects possible and repeats setup at every call site.
 

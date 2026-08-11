@@ -8,7 +8,7 @@ The demonstration followed one rose for seven days. Each day increased its heigh
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex2`, the plant stopped being a static record. The `grow()` and `age()` methods changed its height and age over time.
+Originally introduced in `ex2`, the plant stopped being a static record. The `grow()` and `age()` methods changed its height and age over time.
 
 The `ex1` design could construct and display several objects, but it had no behavior for changing them.
 

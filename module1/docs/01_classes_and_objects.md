@@ -8,7 +8,7 @@ The program created a rose, sunflower, and cactus, then displayed them as a smal
 
 ## What this stage introduced
 
-Originally introduced in `py01/ex1`, `Plant` groups plant data with the `show()` behavior that uses it. A class is the reusable definition; each object is an independent instance made from that definition.
+Originally introduced in `ex1`, `Plant` groups plant data with the `show()` behavior that uses it. A class is the reusable definition; each object is an independent instance made from that definition.
 
 The earlier script stored one plant in separate local variables. It could display that plant, but it did not provide one reusable model for a rose, sunflower, and cactus.
 
