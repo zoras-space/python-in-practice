@@ -1,4 +1,4 @@
-# 🌿 py01 — Object-Oriented Programming
+# 🌿 python01 — Object-Oriented Programming
 
 Module 1 moves from small procedural programs to objects that keep related data and behavior together. The `Plant` model grows step by step, then becomes the base for several specialized and interacting types.
 
