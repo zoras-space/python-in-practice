@@ -26,5 +26,6 @@ Each directory represents one stage of the learning path. Its README contains th
 |---|---|
 | [Module 0](module0/) | Python fundamentals: functions, data, control flow, iteration, recursion, strings, and type hints |
 | [Module 1](module1/) | Object-oriented programming: classes, state, encapsulation, inheritance, and related methods |
+| [Module 2](module2/) | Exceptions: catching failures, raising errors, custom hierarchies, and cleanup |
 
 The modules are intended to be read in order. Start with a module README for an overview, then explore its code and examples as they are added. New modules will extend this list while the root README remains a short guide to the repository.
